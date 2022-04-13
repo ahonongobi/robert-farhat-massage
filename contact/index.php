@@ -415,13 +415,13 @@
 												<?php
 												  
 												    if(isset($_GET['success']) == 'true') {
-												      echo '<div class="lsvr-form__message lsvr-form__message--success lsvr-alert-message lsvr-alert-message--success">';
+												      echo '<div class="lsvr-form__message--success lsvr-alert-message lsvr-alert-message--success">';
 												      echo '<span class="lsvr-alert-message__icon" aria-hidden="true"></span>';
-												      echo '<p>Votre message a été envoyé avec succès.</p>';
+												      echo '<p>Votre message a été envoyé avec succès. Nous vous récontacterons très bienôt.</p>';
 												      echo '</div>';
 												    }
-													else{
-														echo '<div class="lsvr-form__message lsvr-form__message--success lsvr-alert-message lsvr-alert-message--warning">';
+													if(isset($_GET['error']) == 'false') {
+														echo '<div class="lsvr-form__message--success lsvr-alert-message lsvr-alert-message--warning">';
 														echo '<span class="lsvr-alert-message__icon" aria-hidden="true"></span>';
 														echo '<p>Il y a eu une erreur de connexion.</p>';
 														echo '</div>';
