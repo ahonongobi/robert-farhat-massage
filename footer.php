@@ -1,3 +1,10 @@
+<style>
+    @media only screen and (max-width: 600px) {
+        #mobiles {
+            height: 100% !important;
+        }
+    }
+</style>
 <footer id="footer">
 			<div class="footer__inner">
 
@@ -19,9 +26,9 @@
 											<h3 class="widget__title">A Propos de ROBERT FARHAT </h3>
 											<div class="widget__content">
 
-												<p>Après la découverte et la pratique de ces nouvelles expérience ,je voudrai faire un résumé du massage : lorsqu'on prend du plaisir à faire les choses; on n'a pas l'impression de travailler. Constater les effets du massage, le lendemain grâce à l’harmonisation énergétique, un massage qui fera ressortir des choses internes, physiques et mentales, l’objectif étant de débloquer ou l’énergie stagne
+												<p>Après la découverte et la pratique de ces nouvelles expérience ,je voudrai faire un résumé du massage : lorsqu'on prend du plaisir à faire les choses; on n'a pas l'impression de travailler. Constater les effets du massage, le lendemain grâce à l’harmonisation énergétique, un <span class="text-orange">massage</span> qui fera ressortir des choses internes, physiques et mentales, l’objectif étant de débloquer ou l’énergie stagne
 
-												les contractures du physique sont les résultantes du psychisme, cf ; Dr Alexander Lower
+												les contractures du physique sont les résultantes du <span class="text-orange">psychisme, cf ; Dr Alexander Lower </span>
 
 												permet un bon lâcher prise ,améliore la circulation sanguine, une détente absolue.
 											</p>
@@ -51,7 +58,7 @@
 
 
 													<div class="lsvr-grid__col">
-														<p><img style="height: 123px;" src="images/logo.jpg" alt="Brand 2"></p>
+														<p><img id="mobiles" style="height: 123px; width:100%" src="images/logo.jpg" alt="Brand 2"></p>
 													</div>
 													<div class="lsvr-grid__col">
 														<p><img src="images/logo1.jpg" alt="Brand 2"></p>
@@ -60,7 +67,7 @@
 														<p><img src="images/logo2.jpg" alt="Brand 2"></p>
 													</div>
 													<div class="lsvr-grid__col">
-														<p><img style="height: 123px;" src="images/logo4.jpg" alt="Brand 2"></p>
+														<p><img id="mobiles" style="height: 123px; width:100%" src="images/logo4.jpg" alt="Brand 2"></p>
 													</div>
 													
 
@@ -99,7 +106,7 @@
 									</li>
 
 									<li class="footer-menu__item">
-										<a href="#about">A Propos de nous</a>
+										<a href="#about">A Propos</a>
 									</li>
 
 									<li class="footer-menu__item">
@@ -121,7 +128,7 @@
 							<!-- FOOTER TEXT : begin -->
 							<div class="footer-text">
 								<p>
-									<a href="" target="_blank"> &copy;Copyright 2022 ROBERT FARHAT </a> - Massage pour les salons de beauté
+									<a href="" target="_blank"> &copy;Copyright 2022. ROBERT FARHAT </a> - Massage pour les salons de beauté
 								</p>
 							</div>
 							<!-- FOOTER TEXT : end -->

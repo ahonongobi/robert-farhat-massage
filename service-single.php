@@ -119,7 +119,7 @@
 																		<!-- GALLERY IMAGE : begin -->
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/massage1.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/massage1.jpg" style="height: 120px;" class="post__image" alt="Gallery image">
+																				<img src="images/massage1.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<!-- GALLERY IMAGE : end -->
@@ -127,7 +127,7 @@
 																		<!-- GALLERY IMAGE : begin -->
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/massage2.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/massage2.jpg" style="height: 120px;" class="post__image" alt="Gallery image">
+																				<img src="images/massage2.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<!-- GALLERY IMAGE : end -->
@@ -135,7 +135,7 @@
 																		<!-- GALLERY IMAGE : begin -->
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/stone.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/stone.jpg" class="post__image" alt="Gallery image">
+																				<img src="images/stone.jpg"  class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<li class="post__image-item lsvr-grid__col">
@@ -148,17 +148,17 @@
 																		<!-- GALLERY IMAGE : begin -->
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/logo2.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/logo2.jpg" style="height: 120px; width:170px" class="post__image" alt="Gallery image">
+																				<img src="images/logo2.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/logo1.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/logo1.jpg" style="height: 120px; width:170px" class="post__image" alt="Gallery image">
+																				<img src="images/logo1.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/logo.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/logo.jpg" style="height: 120px; width:170px" class="post__image" alt="Gallery image">
+																				<img src="images/logo.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																		<!-- GALLERY IMAGE : end -->
@@ -166,7 +166,7 @@
 																		<!-- GALLERY IMAGE : begin -->
 																		<li class="post__image-item lsvr-grid__col">
 																			<a href="images/gallery_04.jpg" class="post__image-link open-in-lightbox">
-																				<img src="images/logo4.jpg" class="post__image" alt="Gallery image">
+																				<img src="images/logo4.jpg" style="height: 100%; width:100%" class="post__image" alt="Gallery image">
 																			</a>
 																		</li>
 																																					<!-- GALLERY IMAGE : end -->
