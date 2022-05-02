@@ -46,7 +46,7 @@
 							<div class="header-title-tagline">
 
 								<div class="header-title">
-									<a href="/" class="header-title__link">ROBERT FARHAT </a>
+									<a href="/" class="header-title__link">HOLISTIC MASSAGES </a>
 								</div>
 
 								<p class="header-tagline">
