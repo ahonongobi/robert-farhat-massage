@@ -129,7 +129,7 @@
 							<!-- FOOTER TEXT : begin -->
 							<div class="footer-text">
 								<p>
-									<a href="" target="_blank"> &copy;Copyright 2022. ROBERT FARHAT </a> - Massage pour les salons de beauté
+									<a href="" target="_blank"> &copy;Copyright 2022. ROBERT FARHAT </a> - Holistic massage
 								</p>
 							</div>
 							<!-- FOOTER TEXT : end -->

@@ -129,7 +129,7 @@
 							<!-- FOOTER TEXT : begin -->
 							<div class="footer-text">
 								<p>
-									<a href="/">ROBERT FARHAT </a> - Massage pour les salons de beauté
+									<a href="/">ROBERT FARHAT </a> - Holistic massage
 								</p>
 							</div>
 							<!-- FOOTER TEXT : end -->
