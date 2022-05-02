@@ -152,7 +152,7 @@
 												<!-- CONTACT ITEM : begin -->
 												<li class="header-contact__item header-contact__item--has-icon">
 													<span class="header-contact__item-icon icon-envelope-o" aria-hidden="true"></span>
-													<a href="mailto:robert.farhat668@gmail.com ">robert.farhat668@gmail.com </a>
+													<a href="mailto:robertfarhat668@gmail.com ">robertfarhat668@gmail.com </a>
 												</li>
 												<!-- CONTACT ITEM : end -->
 
