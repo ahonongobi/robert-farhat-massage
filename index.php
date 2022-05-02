@@ -204,7 +204,7 @@
 
 																			<!-- POST ITEM THUMB : begin -->
 																			<p class="lsvr-posts__post-thumbnail">
-																				<a href="blog-single.html" class="lsvr-posts__post-thumbnail-link">
+																				<a href="#" class="lsvr-posts__post-thumbnail-link">
 																					<img src="images/robert.jpg" class="lsvr-posts__post-thumbnail-img" alt="The main professionals that provide therapeutic">
 																				</a>
 																			<p>
