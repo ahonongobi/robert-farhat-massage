@@ -5,7 +5,7 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Home | ROBERT FARHAT  - Massage for Beauty Salons</title>
+	<title>Home | ROBERT FARHAT - Massage for Beauty Salons</title>
 	<link rel="shortcut icon" href="images/favicon.ico">
 
 	<!-- STYLESHEETS : begin -->
@@ -36,7 +36,7 @@
 						<!-- MAIN : begin -->
 						<main id="main">
 							<div class="main__inner">
-
+	
 								<!-- PAGE : begin -->
 								<div class="page">
 									<div class="page__content">
@@ -110,6 +110,7 @@
 														<!-- SLIDE : end -->
 
 														<!-- SLIDE : begin -->
+
 														<div class="lsvr-slide-list__item">
 															<div class="lsvr-slide-list__item-bg" style="background-image: url( 'images/slide_03.jpg' );">
 																<div class="lsvr-slide-list__item-inner">
@@ -185,15 +186,15 @@
 																<div class="lsvr-posts__item lsvr-grid__col">
 																	<article class="lsvr-posts__post">
 																		<p>-En 2002, j’entreprends un stage d’un mois a <span class="text-orange">l’École de Watt Poo à Bangkok (Thaïlande) </span>,ou j’apprends les techniques d’accupressure ,je me familiarise avec le toucher ,de retour et très motivé ,je recherche dans mon secteur géographique d’autres formations et fait plusieurs wk aux Courmettes à l’école <span class="text-orange">Bertrand Poncet</span>; qui est massothérapeute relaxologue ; qui m’a enseigné les massages californiens et suédois ;accompagnés de techniques de relaxation basés surtout ,sur la respiration. Je me suis rendu compte que ce n’était plus un luxe ;mais une prise de conscience du soucis de sa santé. cf/ De nos jours beaucoup de gens cherchent à vivre longtemps et peu cherchent à vivre mieux <span class="text-orange">(Socrate)</span>.</p>
-																		
+
 																		<p>Je souhaite prendre mon bien être en urgence au lieu de prendre mon mal en patience (inc).</p>
 																		<p>-L’année dernière, j’ai voulu faire un nouvelle formation, plus complète dans ce domaine qui me tient à cœur, car j’avais ce besoin de renouveau dans un domaine très vaste et cette fois certifiante d’État, sur Fréjus à l’école <span class="text-orange">Hypoténuse</span> reconnue par la <span class="text-orange">FFMTR</span> avec un professeur très professionnel et très investi dans ce domaine, son approche était très différente de ce que j’avais appris initialement; elle était plus ciblée sur le conseil au client du massage qu’il lui fallait; mieux adapté à ses besoins « masser est un moyen unique d’aider le corps à se réparer(Alice faucher).par un suivit lors des entretiens ,en intégrant les remarques, les demandes ,les questions dans ma prestation de service et fournir au client une attention unique pour le fidéliser.</p>
 
 																		<p>Natif du <span class="text-orange">Sénégal</span>, depuis mon enfance ,j’ai toujours aimé partager, échanger et <span class="text-orange">prendre soin des autres</span> ,en grandissant cela est devenu un projet de vie; à m’orienter vers les <span class="text-orange">massages</span>, le toucher. Mon objectif étant de créer un lien unique avec chaque client(e),en transmettant mon énergie positive pour favoriser un lâcher prise et aboutir vers le meilleur épanouissement corporel et émotionnel.</p>
 
-																		
+
 																	</article>
-																</div>
+																</div
 																<!-- POST ITEM : end -->
 
 																<!-- POST ITEM : begin -->
@@ -206,7 +207,9 @@
 																				<a href="blog-single.html" class="lsvr-posts__post-thumbnail-link">
 																					<img src="images/robert.jpg" class="lsvr-posts__post-thumbnail-img" alt="The main professionals that provide therapeutic">
 																				</a>
-																				<p><p>Toutes les huiles utilisées sont <span class="text-orange">biologiques</span> a base de <span class="text-orange">soja</span> et d’amandes douce choisies avec soin selon vos besoins, elles apportent les acides gras nécessaires pour la santé de la peau et sa longévité, elles hydratent et nourrissent en profondeur. <br>chaque massage est pratiqué sur mesure, après vous avoir <span class="text-orange">consulté</span> sur votre état de santé générale. Pour se faire, avant chaque séance un temps est accordé afin de comprendre vos besoins. </p></p>
+																			<p>
+																			<p>Toutes les huiles utilisées sont <span class="text-orange">biologiques</span> a base de <span class="text-orange">soja</span> et d’amandes douce choisies avec soin selon vos besoins, elles apportent les acides gras nécessaires pour la santé de la peau et sa longévité, elles hydratent et nourrissent en profondeur. <br>chaque massage est pratiqué sur mesure, après vous avoir <span class="text-orange">consulté</span> sur votre état de santé générale. Pour se faire, avant chaque séance un temps est accordé afin de comprendre vos besoins. </p>
+																			</p>
 																			</p>
 
 
@@ -704,7 +707,7 @@
 																				<blockquote class="lsvr-testimonials__post-quote">
 
 																					<p>J'ai eu pour cadeau le massage bien-être d'une heure. J'ai été transportée dans l'univers du Rêve en soi. Robert est humain, doux et respectueux. Le massage était un vrai échange, je me suis sentie connectée à mon masseur qui me procurait une sensation de bien-être et de relâchement. Robert a su adapter le massage à ma grossesse et être à l'écoute de mes besoins. Un professionnel qui maîtrise très bien son domaine. Je recommande !</p>
-                                                                                   
+
 																					<footer class="lsvr-testimonials__post-footer lsvr-testimonials__post-footer--has-thumbnail">
 
 																						<p class="lsvr-testimonials__post-thumbnail">
@@ -765,11 +768,11 @@
 																<!-- TESTIMONIAL ITEM : end -->
 
 																<!-- TESTIMONIAL ITEM : begin -->
-																
+
 																<!-- TESTIMONIAL ITEM : end -->
 
 																<!-- TESTIMONIAL ITEM : begin -->
-																
+
 																<!-- TESTIMONIAL ITEM : end -->
 
 															</div>
@@ -794,30 +797,30 @@
 															<p>PRÉSENTATION DES DIFFÉRENTS MASSAGES ET BIENFAITS DE CES RITUELS</p>
 															<p></p>
 														</div>
-														<p> 
-                                                        <ul style="list-style-type: '-';">
+														<p>
+														<ul style="list-style-type: '-';">
 															<li>
-															Il accélère la <span class="text-orange">circulation sanguine</span>, assure une bonne <span class="text-orange">oxygénation</span> du sang, favorise l'élimination des toxines et empêche qu'elles se fixent sur les muscles et les articulations. 
+																Il accélère la <span class="text-orange">circulation sanguine</span>, assure une bonne <span class="text-orange">oxygénation</span> du sang, favorise l'élimination des toxines et empêche qu'elles se fixent sur les muscles et les articulations.
 															</li>
-	                                                        <li>Il renforce le système immunitaire, les processus d'élimination en stimulant les fonctions rénales et intestinales. </li>
+															<li>Il renforce le système immunitaire, les processus d'élimination en stimulant les fonctions rénales et intestinales. </li>
 
-                                                        
+
 															</li>
 															<li>
-															Il favorise la production de différentes <span class="text-orange">hormones</span>, dopamine, la noradrénaline, les endorphines..
+																Il favorise la production de différentes <span class="text-orange">hormones</span>, dopamine, la noradrénaline, les endorphines..
 															</li>
 														</ul>
-                                                        </p>
+														</p>
 														<p>ses manœuvres induisent la relaxation, la circulation des fluides et la décontraction musculaire; suivant l'effet recherché ,son rythme sera lent, très lent et rapide..de même pour la pression.</p>
 														<ul style="list-style-type: '-';">
-                                                            <li>
-															Le <span class="text-orange">pétrissage</span>, permet d'assouplir, de décontracter, d'étirer les muscles tendus, il favorise la circulation sanguine dans les muscles en ramenant du sang et des nutriments frais dans la région massée, il améliore l'absorption et l'élimination des déchets et toxines.il permet le relâchement des vaisseaux et fibres musculaires qui durcissent et se collent les unes aux les autres après un effort excessif.
+															<li>
+																Le <span class="text-orange">pétrissage</span>, permet d'assouplir, de décontracter, d'étirer les muscles tendus, il favorise la circulation sanguine dans les muscles en ramenant du sang et des nutriments frais dans la région massée, il améliore l'absorption et l'élimination des déchets et toxines.il permet le relâchement des vaisseaux et fibres musculaires qui durcissent et se collent les unes aux les autres après un effort excessif.
 															</li>
 															<li>
-															La <span class="text-orange">percussion</span>; active la circulation sanguine cutanée, stimule les terminaisons nerveuses et provoque des minimes contractions nerveuses, on l'effectue sur les gros <span class="text-orange">muscles(fesses, jambes, dos) </span> très efficace après une activité physique intense
+																La <span class="text-orange">percussion</span>; active la circulation sanguine cutanée, stimule les terminaisons nerveuses et provoque des minimes contractions nerveuses, on l'effectue sur les gros <span class="text-orange">muscles(fesses, jambes, dos) </span> très efficace après une activité physique intense
 															</li>
 														</ul>
-                                                        
+
 														<p class="lsvr-cta__button">
 															<a href="contact/" class="lsvr-cta__button-link lsvr-button">Prénez votre rendez-vous</a>
 														</p>

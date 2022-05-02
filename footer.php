@@ -1,7 +1,7 @@
 <style>
     @media only screen and (max-width: 600px) {
         #mobiles {
-            height: 100% !important;
+            height: 50% !important;
         }
     }
 </style>
@@ -110,7 +110,7 @@
 									</li>
 
 									<li class="footer-menu__item">
-										<a href="contact.php">Contactez-nous</a>
+										<a href="contact/">Contactez-nous</a>
 									</li>
 
 									<li class="footer-menu__item">
@@ -118,7 +118,7 @@
 									</li>
 
 									<li class="footer-menu__item">
-										<a href="contact.php">Prenez rendez-vous</a>
+										<a href="contact/">Prenez rendez-vous</a>
 									</li>
 
 								</ul>

@@ -529,7 +529,7 @@ $(document).ready( function() {
 								$validationErrorMessage.slideDown( 200 );
 
 							}
-
+              
 							// Success
 							else if ( response.hasOwnProperty( 'type' ) && 'success' === response.type && response.hasOwnProperty( 'message' ) ) {
 

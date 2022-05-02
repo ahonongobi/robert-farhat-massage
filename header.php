@@ -38,7 +38,7 @@
 								
 							</div>
                              <a href="/">
-                             <img style="height: 150px !important;" src="images/imageedit_70_6189109642.png" alt="" srcset="">
+                             <img style="height: 150px !important;border-radius:50%" src="images/imageedit_70_6189109642.png" alt="" srcset="">
                              </a>
 							<!-- HEADER LOGO : end -->
 
@@ -145,14 +145,14 @@
 												<!-- CONTACT ITEM : begin -->
 												<li class="header-contact__item header-contact__item--has-icon">
 													<span class="header-contact__item-icon icon-phone" aria-hidden="true"></span>
-													<a href="tel:12346789">(+33) 456 789</a>
+													<a href="tel:00330644020731">(+33) 064 402 0731</a>
 												</li>
 												<!-- CONTACT ITEM : end -->
 
 												<!-- CONTACT ITEM : begin -->
 												<li class="header-contact__item header-contact__item--has-icon">
 													<span class="header-contact__item-icon icon-envelope-o" aria-hidden="true"></span>
-													<a href="mailto:example@example.com">example@example.com</a>
+													<a href="mailto:robert.farhat668@gmail.com ">robert.farhat668@gmail.com </a>
 												</li>
 												<!-- CONTACT ITEM : end -->
 
@@ -161,8 +161,8 @@
 													<span class="header-contact__item-icon icon-map-marker" aria-hidden="true"></span>
 													<p>
 														ROBERT FARHAT <br>
-														9015 Sunset Boulevard<br>
-														Ca 90069
+														France<br>
+														
 													</p>
 												</li>
 												<!-- CONTACT ITEM : end -->
@@ -172,9 +172,9 @@
 													<span class="header-contact__item-icon icon-clock-o" aria-hidden="true"></span>
 													<dl>
 														<dt>Lun. - Ven.:</dt>
-														<dd>10:00 - 16:00</dd>
-														<dt>Sa.:</dt>
-														<dd>9:00 - 14:00</dd>
+														<dd>19:00 - 22:30</dd>
+														<dt>Sam.:</dt>
+														<dd>9:00 - 22:30</dd>
 														<dt>Dim.:</dt>
 														<dd>Fermé</dd>
 													</dl>

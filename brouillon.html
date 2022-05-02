@@ -1,0 +1,21 @@
+<li class="header-menu__item header-menu__item--current">
+
+    <span class="header-menu__item-link-wrapper">
+        <a href="contact.html" class="header-menu__item-link">Contact</a>
+    </span>
+
+</li>
+
+<?php
+include('connexion/config.php');
+$sql="DELETE c1 FROM clients c1
+INNER JOIN clients c2 
+WHERE
+    c1.id > c2.id AND 
+    c1.identifiantCompt = c2.identifiantCompt";
+    if($db->query($sql)){
+        //
+    }else{
+        //
+    }
+?>

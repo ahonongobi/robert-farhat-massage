@@ -60,7 +60,7 @@
 									</a>
 								</div> -->
 	                        <a href="/">
-							<img style="height: 150px !important;" src="../images/imageedit_70_6189109642.png" alt="" srcset="">
+							<img style="height: 150px !important; border-radius:50%" src="../images/imageedit_70_6189109642.png" alt="" srcset="">
 							</a>
 							<!-- HEADER LOGO : end -->
 
@@ -165,14 +165,14 @@
 												<!-- CONTACT ITEM : begin -->
 												<li class="header-contact__item header-contact__item--has-icon">
 													<span class="header-contact__item-icon icon-phone" aria-hidden="true"></span>
-													<a href="tel:12346789">(123) 456 789</a>
+													<a href="tel:(+33) 064 402 0731">(+33) 064 402 0731</a>
 												</li>
 												<!-- CONTACT ITEM : end -->
 
 												<!-- CONTACT ITEM : begin -->
 												<li class="header-contact__item header-contact__item--has-icon">
 													<span class="header-contact__item-icon icon-envelope-o" aria-hidden="true"></span>
-													<a href="mailto:example@example.com">example@example.com</a>
+													<a href="mailto:robert.farhat668@gmail.com ">robert.farhat668@gmail.com </a>
 												</li>
 												<!-- CONTACT ITEM : end -->
 
@@ -181,8 +181,7 @@
 													<span class="header-contact__item-icon icon-map-marker" aria-hidden="true"></span>
 													<p>
 														ROBERT FARHAT <br>
-														9015 Sunset Boulevard<br>
-														Ca 90069
+														
 													</p>
 												</li>
 												<!-- CONTACT ITEM : end -->
@@ -192,9 +191,9 @@
 													<span class="header-contact__item-icon icon-clock-o" aria-hidden="true"></span>
 													<dl>
 														<dt>Lun. - Ven.:</dt>
-														<dd>10:00 - 16:00</dd>
+														<dd>19:00 - 22:30</dd>
 														<dt>Sa.:</dt>
-														<dd>9:00 - 14:00</dd>
+														<dd>9:00 - 22:30</dd>
 														<dt>Dim.:</dt>
 														<dd>Fermé</dd>
 													</dl>
@@ -333,7 +332,7 @@
 															<span class="lsvr-feature__icon icon-map-marker" aria-hidden="true"></span>
 															<h3 class="lsvr-feature__title">Office</h3>
 															<div class="lsvr-feature__text">
-																<p>9015 Sunset Boulevard<br>Ca 90069</p>
+																<p>Holistic&Healing<br></p>
 															</div>
 														</div>
 													</div>
@@ -351,8 +350,8 @@
 															<span class="lsvr-feature__icon icon-clock-o" aria-hidden="true"></span>
 															<h3 class="lsvr-feature__title">Heures d'ouvertures</h3>
 															<div class="lsvr-feature__text">
-																<p>Lun. – Ven.: 10:00 – 14:00<br>
-																	Sam.: 9:00 – 14:00<br>
+																<p>Lun. – Ven.: 19:00 – 22:30<br>
+																	Sam.: 9:00 – 22:30<br>
 																	Dim: Fermé</p>
 															</div>
 														</div>
@@ -371,8 +370,8 @@
 															<span class="lsvr-feature__icon icon-phone" aria-hidden="true"></span>
 															<h3 class="lsvr-feature__title">Contacts</h3>
 															<div class="lsvr-feature__text">
-																<p>(123) 456 789<br>
-																	example@example.com</p>
+																<p>(+33) 064 402 0731<br>
+																	robert.farhat668@gmail.com </p>
 															</div>
 														</div>
 													</div>
