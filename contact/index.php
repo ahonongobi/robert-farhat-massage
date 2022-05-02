@@ -68,7 +68,7 @@
 							<div class="header-title-tagline">
 
 								<div class="header-title">
-									<a href="index.html" class="header-title__link">ROBERT FARHAT </a>
+									<a href="/" class="header-title__link">HOLISTIC MASSAGE </a>
 								</div>
 
 
@@ -105,7 +105,7 @@
 							<li class="header-menu__item">
 
 								<span class="header-menu__item-link-wrapper">
-									<a href="service-archive.html" class="header-menu__item-link">Nos services</a>
+									<a href="/#services" class="header-menu__item-link">Nos services</a>
 								</span>
 
 							</li>
@@ -131,7 +131,7 @@
 							<li class="header-menu__item header-menu__item--current">
 
 								<span class="header-menu__item-link-wrapper">
-									<a href="" class="header-menu__item-link">Contact</a>
+									<a href="#" class="header-menu__item-link">Contact</a>
 								</span>
 
 							</li>
