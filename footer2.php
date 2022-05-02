@@ -2,6 +2,7 @@
      @media only screen and (max-width: 600px) {
         #mobiles {
             height: 100% !important;
+			display: none !important;
         }
     }
 </style>
@@ -61,10 +62,10 @@
 														<p><img id="mobiles" style="height: 123px; width:100%" src="../images/logo.jpg" alt="Brand 2"></p>
 													</div>
 													<div class="lsvr-grid__col">
-														<p><img src="../images/logo1.jpg" alt="Brand 2"></p>
+														<p><img id="mobiles" src="../images/logo1.jpg" alt="Brand 2"></p>
 													</div>
 													<div class="lsvr-grid__col">
-														<p><img src="../images/logo2.jpg" alt="Brand 2"></p>
+														<p><img id="mobiles" src="../images/logo2.jpg" alt="Brand 2"></p>
 													</div>
 													<div class="lsvr-grid__col">
 														<p><img id="mobiles" style="height: 123px; width:100%" src="../images/logo4.jpg" alt="Brand 2"></p>
