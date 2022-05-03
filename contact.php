@@ -174,7 +174,7 @@ if (isset($_POST['submit'])) {
 
    $mail->Host = 'smtp.hostinger.com';
 
-   $mail->Port = 587;
+   $mail->Port = 465;
 
    $mail->SMTPSecure = 'tls';
 
@@ -205,7 +205,7 @@ if (isset($_POST['submit'])) {
 
                //echo ($send_email) ? 'success' : 'error';
                $mail->clearAddresses();
-               $mail->addAddress("robertfarhat668@gmail.com");
+               $mail->addAddress("abyssinie97@gmail.com");
                $send_email = $mail->send();
                echo ($send_email) ? 'success' : 'error';
                header("Location: contact/?success=true");
