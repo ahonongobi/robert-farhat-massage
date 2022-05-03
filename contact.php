@@ -174,7 +174,7 @@ if (isset($_POST['submit'])) {
 
    $mail->Host = 'smtp.hostinger.com';
 
-   $mail->Port = 465;
+   $mail->Port = 587;
 
    $mail->SMTPSecure = 'tls';
 
