@@ -195,11 +195,11 @@ if (isset($_POST['submit'])) {
    $mail->msgHTML($message_body);
 
    if (!$mail->send()) {
-               $error = "Erreur : " . $mail->ErrorInfo;
+              /**  $error = "Erreur : " . $mail->ErrorInfo;
          ?><script>
          alert('<?php echo $error ?>');
-      </script><?php 
-               //header("Location: contact/?error=false");
+      </script><?php **/
+               header("Location: contact/?error=false");
             } else {
                //echo '<script>alert("Thanks for your message, our team will contact you soon!!!");</script>';
 
