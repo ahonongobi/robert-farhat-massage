@@ -195,7 +195,7 @@
 														<dt>Sa.:</dt>
 														<dd>9:00 - 22:30</dd>
 														<dt>Dim.:</dt>
-														<dd>Fermé</dd>
+														<dd>Sur rendez-vous</dd>
 													</dl>
 												</li>
 												<!-- CONTACT ITEM : end -->
@@ -313,7 +313,8 @@
 
 											<!-- MAP : begin -->
 
-											<iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.76457529764!2d2.2769954619738697!3d48.85894658079105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sfr!2sbj!4v1649767171598!5m2!1sfr!2sbj" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+											<!--<iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.76457529764!2d2.2769954619738697!3d48.85894658079105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sfr!2sbj!4v1649767171598!5m2!1sfr!2sbj" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+												<img style="width: 100%; height: 500px; object-fit:cover" src="../images/roberts.jpg" alt="">
 											<!-- MAP : begin -->
 
 											<!-- LSVR SPACER : begin -->
@@ -387,7 +388,7 @@
 											<hr class="lsvr-separator" aria-hidden="true">
 											<!-- LSVR SEPARATOR : end -->
 
-											<h3>Prénez un rendez-vous</h3>
+											<h3>Prenez un rendez-vous</h3>
 
 											<p>Remplissez ce formulaire pour prendre un rendez-vous de massage. Nous sommes à votre entière disposition</p>
 

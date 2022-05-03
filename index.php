@@ -170,7 +170,7 @@
 																	<a href="#about" class="lsvr-posts__title-link">QUI SUIS JE?</a>
 																</h2>
 
-																<h3 class="lsvr-posts__subtitle">Découvrez qui suis-je</h3>
+																<h3 class="lsvr-posts__subtitle"></h3>
 
 															</header>
 														</div>
@@ -188,9 +188,9 @@
 																		<p>-En 2002, j’entreprends un stage d’un mois a <span class="text-orange">l’École de Watt Poo à Bangkok (Thaïlande) </span>,ou j’apprends les techniques d’accupressure ,je me familiarise avec le toucher ,de retour et très motivé ,je recherche dans mon secteur géographique d’autres formations et fait plusieurs wk aux Courmettes à l’école <span class="text-orange">Bertrand Poncet</span>; qui est massothérapeute relaxologue ; qui m’a enseigné les massages californiens et suédois ;accompagnés de techniques de relaxation basés surtout ,sur la respiration. Je me suis rendu compte que ce n’était plus un luxe ;mais une prise de conscience du soucis de sa santé. cf/ De nos jours beaucoup de gens cherchent à vivre longtemps et peu cherchent à vivre mieux <span class="text-orange">(Socrate)</span>.</p>
 
 																		<p>Je souhaite prendre mon bien être en urgence au lieu de prendre mon mal en patience (inc).</p>
-																		<p>-L’année dernière, j’ai voulu faire un nouvelle formation, plus complète dans ce domaine qui me tient à cœur, car j’avais ce besoin de renouveau dans un domaine très vaste et cette fois certifiante d’État, sur Fréjus à l’école <span class="text-orange">Hypoténuse</span> reconnue par la <span class="text-orange">FFMTR</span> avec un professeur très professionnel et très investi dans ce domaine, son approche était très différente de ce que j’avais appris initialement; elle était plus ciblée sur le conseil au client du massage qu’il lui fallait; mieux adapté à ses besoins « masser est un moyen unique d’aider le corps à se réparer(Alice faucher).par un suivit lors des entretiens ,en intégrant les remarques, les demandes ,les questions dans ma prestation de service et fournir au client une attention unique pour le fidéliser.</p>
+																		<p>-L’année dernière, j’ai voulu faire un nouvelle formation, plus complète dans ce domaine qui me tient à cœur, car j’avais ce besoin de renouveau dans un domaine très vaste et cette fois certifiante d’État, sur Fréjus à l’école <span class="text-orange">Hypoténuse</span> reconnue par la <span class="text-orange">FFMTR</span> avec un professeur (<span class="text-orange">Mr Eric Darves Bornoz</span>) très professionnel et très investi dans ce domaine, son approche était très différente de ce que j’avais appris initialement; elle était plus ciblée sur le conseil au client du massage qu’il lui fallait; mieux adapté à ses besoins « masser est un moyen unique d’aider le corps à se réparer(Alice faucher).par un suivit lors des entretiens ,en intégrant les remarques, les demandes ,les questions dans ma prestation de service et fournir au client une attention unique pour le fidéliser.</p>
 
-																		<p>Natif du <span class="text-orange">Sénégal</span>, depuis mon enfance ,j’ai toujours aimé partager, échanger et <span class="text-orange">prendre soin des autres</span> ,en grandissant cela est devenu un projet de vie; à m’orienter vers les <span class="text-orange">massages</span>, le toucher. Mon objectif étant de créer un lien unique avec chaque client(e),en transmettant mon énergie positive pour favoriser un lâcher prise et aboutir vers le meilleur épanouissement corporel et émotionnel.</p>
+																		
 
 
 																	</article>
@@ -205,9 +205,10 @@
 																			<!-- POST ITEM THUMB : begin -->
 																			<p class="lsvr-posts__post-thumbnail">
 																				<a href="#" class="lsvr-posts__post-thumbnail-link">
-																					<img src="images/robert.jpg" class="lsvr-posts__post-thumbnail-img" alt="The main professionals that provide therapeutic">
+																					<img src="images/certification.jpg" class="lsvr-posts__post-thumbnail-img" alt="The main professionals that provide therapeutic">
 																				</a>
 																			<p>
+																			<p>Natif du <span class="text-orange">Sénégal</span>, depuis mon enfance ,j’ai toujours aimé partager, échanger et <span class="text-orange">prendre soin des autres</span> ,en grandissant cela est devenu un projet de vie; à m’orienter vers les <span class="text-orange">massages</span>, le toucher. Mon objectif étant de créer un lien unique avec chaque client(e),en transmettant mon énergie positive pour favoriser un lâcher prise et aboutir vers le meilleur épanouissement corporel et émotionnel.</p>
 																			<p>Toutes les huiles utilisées sont <span class="text-orange">biologiques</span> a base de <span class="text-orange">soja</span> et d’amandes douce choisies avec soin selon vos besoins, elles apportent les acides gras nécessaires pour la santé de la peau et sa longévité, elles hydratent et nourrissent en profondeur. <br>chaque massage est pratiqué sur mesure, après vous avoir <span class="text-orange">consulté</span> sur votre état de santé générale. Pour se faire, avant chaque séance un temps est accordé afin de comprendre vos besoins. </p>
 																			</p>
 																			</p>
@@ -259,7 +260,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/bady2.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/massage2.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->
@@ -269,7 +270,7 @@
 																						<span class="lsvr-services__post-icon icon-powder-brush" aria-hidden="true"></span>
 
 																						<h3 class="lsvr-services__post-title">
-																							<a href="service-single.html" class="lsvr-services__post-title-link">SUBLIME HARMONIE</a>
+																							<a href="" class="lsvr-services__post-title-link">SUBLIME HARMONIE</a>
 																						</h3>
 
 																					</div>
@@ -336,7 +337,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/stone.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/massage0.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->
@@ -374,7 +375,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/service_04.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url('images/massage4.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->
@@ -412,7 +413,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/massage2.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/stone.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->
@@ -450,7 +451,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/body.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/massage.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->
@@ -711,13 +712,13 @@
 																					<footer class="lsvr-testimonials__post-footer lsvr-testimonials__post-footer--has-thumbnail">
 
 																						<p class="lsvr-testimonials__post-thumbnail">
-																							<a href="testimonial-single.html" class="lsvr-testimonials__post-thumbnail-link">
+																							<a href="#" class="lsvr-testimonials__post-thumbnail-link">
 																								<img src="images/client_01.jpg" class="lsvr-testimonials__post-thumbnail-img" alt="Sandra Olson">
 																							</a>
 																						</p>
 
 																						<cite class="lsvr-testimonials__post-title">
-																							<a href="testimonial-single.html" class="lsvr-testimonials__post-title-link">Sandra Olson</a>
+																							<a href="#" class="lsvr-testimonials__post-title-link">Sandra Olson</a>
 																							<span class="lsvr-testimonials__post-title-description">Pharmacienne</span>
 																						</cite>
 
@@ -746,13 +747,13 @@
 																					<footer class="lsvr-testimonials__post-footer lsvr-testimonials__post-footer--has-thumbnail">
 
 																						<p class="lsvr-testimonials__post-thumbnail">
-																							<a href="testimonial-single.html" class="lsvr-testimonials__post-thumbnail-link">
+																							<a href="#" class="lsvr-testimonials__post-thumbnail-link">
 																								<img src="images/client_02.jpg" class="lsvr-testimonials__post-thumbnail-img" alt="Donna Kittrell">
 																							</a>
 																						</p>
 
 																						<cite class="lsvr-testimonials__post-title">
-																							<a href="testimonial-single.html" class="lsvr-testimonials__post-title-link">Armandine</a>
+																							<a href="#" class="lsvr-testimonials__post-title-link">Armandine</a>
 																							<span class="lsvr-testimonials__post-title-description">Réceptionniste</span>
 																						</cite>
 

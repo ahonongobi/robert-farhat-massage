@@ -176,7 +176,7 @@
 														<dt>Sam.:</dt>
 														<dd>9:00 - 22:30</dd>
 														<dt>Dim.:</dt>
-														<dd>Fermé</dd>
+														<dd>Sur rendez-vous</dd>
 													</dl>
 												</li>
 												<!-- CONTACT ITEM : end -->
