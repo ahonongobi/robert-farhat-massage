@@ -189,7 +189,7 @@ if (isset($_POST['submit'])) {
 
    $mail->addReplyTo($email, $lname);
 
-   $mail->addAddress("abyssinie97@gmail.com", "abyssinie");
+   $mail->addAddress("abyssinie97@gmail.com");
    $mail->Subject = $subject;
 
    $mail->msgHTML($message_body);
