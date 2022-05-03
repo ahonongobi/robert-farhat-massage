@@ -172,7 +172,7 @@ if (isset($_POST['submit'])) {
 
    $mail->isSMTP();
 
-   $mail->Host = 'smtp.gmail.com';
+   $mail->Host = 'smtp.hostinger.com';
 
    $mail->Port = 587;
 
@@ -180,16 +180,16 @@ if (isset($_POST['submit'])) {
 
    $mail->SMTPAuth = true;
 
-   $mail->Username = "suportteams99@gmail.com";
-
-   $mail->Password = "JE@dois@94@94";
-
+   //$mail->Username = "suportteams99@gmail.com";
+   $mail->Username = "orders@holistic-massages.com";
+   //$mail->Password = "JE@dois@94@94";
+   $mail->Password = "Test@send1";
 
    $mail->setFrom($email, $lname);
 
    $mail->addReplyTo($email, $lname);
 
-   $mail->addAddress("robertfarhat668@gmail.com");
+   $mail->addAddress("abyssinie97@gmail.com", "abyssinie");
    $mail->Subject = $subject;
 
    $mail->msgHTML($message_body);
