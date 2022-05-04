@@ -245,7 +245,7 @@
 																	<a href="" class="lsvr-services__title-link">Nos Services</a>
 																</h2>
 
-																<h3 class="lsvr-services__subtitle">Notre salon offre une grande variété de services de beauté</h3>
+																
 
 															</header>
 														</div>
@@ -337,7 +337,7 @@
 																<!-- SERVICE ITEM : begin -->
 																<div class="lsvr-services__item lsvr-grid__col lsvr-services__item--has-thumbnail">
 																	<article class="lsvr-ROBERT FARHAT -services__post">
-																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/massage0.jpg' ); ">
+																		<div class="lsvr-services__post-bg" style="background-image: url( 'images/service_04.jpg' ); ">
 																			<div class="lsvr-services__post-inner">
 
 																				<!-- SERVICE ITEM HEADER : begin -->

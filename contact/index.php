@@ -353,7 +353,7 @@
 															<div class="lsvr-feature__text">
 																<p>Lun. – Ven.: 19:00 – 22:30<br>
 																	Sam.: 9:00 – 22:30<br>
-																	Dim: Fermé</p>
+																	Dim: Sur rendez-vous</p>
 															</div>
 														</div>
 													</div>
